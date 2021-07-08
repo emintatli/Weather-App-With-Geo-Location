@@ -1,0 +1,30 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
+body{
+    background-color: rgb(152, 190, 223);
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.combo-main{
+    background-color:aliceblue;
+    padding:10px;
+    margin:10px 0 10px 0;
+}
+.main-weather{
+    min-height: 20vh;
+}
+.active{
+    box-shadow: 5px 5px;
+}
+.today{
+    background-color: aquamarine;
+    width: 100%;
+    position: absolute;
+    top:0;
+    border-radius: 3px 0 0 3px;
+    align-self: center;
+    opacity: 0.8;
+    font-size: 10px;
+    font-weight: bolder;
+}
