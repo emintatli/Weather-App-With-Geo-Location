@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Weather-App-With-Geo-Location 👋</h1>
+<h1 align="center">Weather-App-With-Geo-Location 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -8,9 +8,9 @@
 
 > Weather-App-With-Geo-Location
 
-### 🏠 [Homepage](,)
+<p align="center"><img src="https://i.ibb.co/vYWy4v3/Screenshot-9.png"/></p>
 
-### ✨ [Demo](https://weather-app-with-geo-location.vercel.app/)
+# ✨ [Demo](https://weather-app-with-geo-location.vercel.app/)
 
 ## Install
 
@@ -20,6 +20,7 @@ npm install
 
 ## Usage
 
+<b>Dont forget to change YOUR_API_KEY_HERE text to your api keys.It's in the \src\components\Weather.js</b>
 ```sh
 npm run start
 ```
@@ -35,10 +36,3 @@ npm run test
 👤 **Emin TATLI**
 
 * Github: [@emintatli](https://github.com/emintatli)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
